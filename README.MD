@@ -17,7 +17,3 @@ yarn create react-app folder_name
 
 yarn start
 
-
-# Screenshots
-
-"C:\Users\Dharmik\Desktop\123.png"
