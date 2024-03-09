@@ -14,4 +14,10 @@ yarn create react-app folder_name
 
 
 #To start the client 
+
 yarn start
+
+
+# Screenshots
+
+"C:\Users\Dharmik\Desktop\123.png"
