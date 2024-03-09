@@ -9,6 +9,7 @@ npm run serve
 
 # To create react project using npm & yarn
 npm create-react-app folder_name
+
 yarn create react-app folder_name
 
 
